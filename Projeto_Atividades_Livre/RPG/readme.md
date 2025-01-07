@@ -25,10 +25,3 @@ O projeto é composto pelos seguintes arquivos principais:
 1. **`personagem.py`**: Contém as classes `Personagem`, `Guerreiro`, `Mago`, e `Arqueiro`, com seus métodos de ataque, defesa e reviver, e executa o arquivo.
 2. **`personagens.json`**: Arquivo JSON onde os personagens criados são salvos para persistência de dados.
 
-## Como Rodar o Projeto
-
-1. Clone o repositório para sua máquina local:
-
-   ```bash
-   git clone https://github.com/SEU-USUARIO/PROJETO.git
-
