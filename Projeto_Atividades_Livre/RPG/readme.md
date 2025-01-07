@@ -22,9 +22,8 @@ O sistema possui as seguintes classes de personagens:
 
 O projeto é composto pelos seguintes arquivos principais:
 
-1. **`main.py`**: Arquivo principal que executa o menu, a criação de personagens e os combates.
-2. **`personagem.py`**: Contém as classes `Personagem`, `Guerreiro`, `Mago`, e `Arqueiro`, com seus métodos de ataque, defesa e reviver.
-3. **`personagens.json`**: Arquivo JSON onde os personagens criados são salvos para persistência de dados.
+1. **`personagem.py`**: Contém as classes `Personagem`, `Guerreiro`, `Mago`, e `Arqueiro`, com seus métodos de ataque, defesa e reviver, e executa o arquivo.
+2. **`personagens.json`**: Arquivo JSON onde os personagens criados são salvos para persistência de dados.
 
 ## Como Rodar o Projeto
 
