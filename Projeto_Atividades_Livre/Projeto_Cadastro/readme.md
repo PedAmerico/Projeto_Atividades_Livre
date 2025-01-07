@@ -26,10 +26,9 @@ O projeto é composto pelos seguintes componentes principais:
 
 ## Pré-requisitos
 
-- Python 3.x
+- Python 3
 - Dependências:
   - `json` (biblioteca padrão do Python)
-  - `os` (biblioteca padrão do Python)
 
 ## Como Rodar o Projeto
 
